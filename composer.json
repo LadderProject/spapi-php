@@ -1,0 +1,14 @@
+{
+    "name": "ladder-project/spapi-php",
+    "description": "Amazon Selling Partner SPAPI Client",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "Beckyang",
+            "email": "snryid@163.com"
+        }
+    ]
+}
