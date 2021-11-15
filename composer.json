@@ -3,7 +3,8 @@
     "description": "Amazon Selling Partner SPAPI Client",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "^6.5"
+        "guzzlehttp/guzzle": "^6.5",
+        "ext-json": "*"
     },
     "authors": [
         {
