@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 /vendor
+=======
+>>>>>>> origin/main
 .env
 .env.backup
 /.idea
 /.vscode
+<<<<<<< HEAD
+=======
+/vendor
+>>>>>>> origin/main
 /composer.lock
